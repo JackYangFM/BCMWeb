@@ -1,0 +1,52 @@
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html */
+
+body{font-size:0.12rem; font-family:"微软雅黑";color:#666;overflow-x:hidden;}
+*{margin:0;padding:0; list-style:none;}
+input{padding:0; border:none; outline:none;}
+img{border:0;}
+a{text-decoration:none;}
+table{border-collapse:collapse;border-color:#666;}
+.clear{clear:both;}
+
+/*bcm_top*/
+.bcm_topbox{background:#15171f;height:0.85rem;overflow:hidden;}
+.bcm_topbox .top_nav{width:10.30rem;margin:auto;}
+.bcm_topbox .top_nav .nav_logo{width:3.60rem;float:left;margin:0.08rem 0 0 0;}
+.bcm_topbox .top_nav .nav_logo a img{width:3rem;height:0.74rem;}
+.bcm_topbox ul li{float:left;}
+.bcm_topbox ul li a{color:#fff;font-size:0.15rem;line-height:0.86rem;margin:0 0.05rem;padding:0 0.2rem;display:block;}
+.bcm_topbox ul li a:hover{background:#323744;}
+.bcm_topbox .top_nav ul li .nav_focus{background:#323744;}
+
+/*bcm_footer*/
+.bcm_footer{background:#15171f;}
+.bcm_footer .f_top{width:10.30rem;height:1.10rem;margin:auto;padding:0.4rem 0 0 0;border-bottom:0.01rem solid #2c2f3c;}
+.bcm_footer .t_left{float:left;}
+.bcm_footer .t_left img{width:0.9rem;height:0.9rem;}
+.bcm_footer .t_right{float:left;}
+.bcm_footer .t_right ul li{font-size:0.14rem;padding:0 0 0.05rem 0.2rem;}
+.bcm_footer .f_bottom{width:10.30rem;margin:0.2rem auto 0;font-size:0.14rem;padding:0 0 0.5rem 0;}
+.bcm_footer .f_bottom .b_left{float:left;}
+.bcm_footer .f_bottom .b_left p{padding:0 0 0.05rem 0;}
+.bcm_footer .f_bottom .b_left a{color:#666;}
+.bcm_footer .f_bottom .b_left a:hover{color:#fff;}
+.bcm_footer .f_bottom .b_right{float:right;margin:0.15rem 0 0 0;}
+.bcm_footer .f_bottom .b_right a{border:0.01rem solid #666;padding:0.05rem 0.2rem;color:#666;font-size:0.14rem;}
+.bcm_footer .f_bottom .b_right a:hover{color:#fff;border:0.01rem solid #fff;}
+
+/*bcm_banner_introduction*/
+.bcm_banner_introduction{width:100%;height:2.27rem;}
+.bcm_banner_introduction img{width:19.20rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
